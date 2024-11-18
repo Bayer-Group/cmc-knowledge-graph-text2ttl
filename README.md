@@ -13,3 +13,7 @@ Text to TTL is designed to be used in diffrent contexts:
 - As a command line tool.   
   *It comes with a runner object and a main-line so that it becomes a callable module.*
   
+
+# Architecure
+
+![Text to TTL Overview](./docs/source/kg_text_to_ttl_overview.svg)
